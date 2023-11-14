@@ -1,7 +1,10 @@
-p{
-    text-align:center;
-    
-}
- body {
+body{
     background: rgb(193, 193, 221);
- }  
+}
+ p{
+    text-align:center;
+}  
+
+strong{
+    color:red;
+}
