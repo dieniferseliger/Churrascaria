@@ -1,7 +1,12 @@
 body{
     background: rgb(193, 193, 221);
 }
- p{
+
+h1 {
+    text-align:center
+}
+
+p{
     text-align:center;
 }  
 
